@@ -12,7 +12,7 @@
     "migrate": "node-pg-migrate",
     "migrate:test": "node-pg-migrate -f config/database/test.json"
   },
-  "keywords": [],
+  "keywords": ["backend-api"],
   "author": "andre",
   "license": "ISC",
   "dependencies": {
